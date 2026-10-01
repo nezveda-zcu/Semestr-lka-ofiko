@@ -1,0 +1,16 @@
+.conttlacitka{
+    margin: auto;
+    text-align: center;
+    background-color: green;
+    color: gold;
+    border: 2px solid lightgreen;
+    border-style: ridge;
+    
+}
+
+.controls{
+    margin: auto;
+    text-align: center;
+    background-color: darkgreen;
+    max-width: 100%;
+}
